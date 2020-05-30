@@ -1,3 +1,10 @@
-body {
+/* Page Navigation Styles */
+.navTitle {
   background-color: blue;
+  height: 100px;
+}
+
+.navInfo {
+  background-color: black;
+  height: 100px;
 }
