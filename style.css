@@ -1,3 +1,10 @@
+body {
+  background-color: #d6d6d6;
+}
+
+.font-weight-bold {
+  letter-spacing: 0.085em;
+}
 .aboutPhoto {
   height: 100%;
 }
