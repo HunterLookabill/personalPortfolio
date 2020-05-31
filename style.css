@@ -1,3 +1,22 @@
 .aboutPhoto {
   height: 100%;
 }
+
+.portfolioScroll {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.portfolioScroll > div {
+  display: inline-block;
+  float:none;
+  width: inherit;
+}
+
+.scrollIndicator {
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  z-index: 1;
+  float: right;
+}
