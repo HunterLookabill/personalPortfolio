@@ -14,12 +14,6 @@ body {
   white-space: nowrap;
 }
 
-.portfolioScroll > div {
-  display: inline-block;
-  float:none;
-  width: inherit;
-}
-
 .scrollIndicator {
   font-size: 30px;
   width: 60px;
